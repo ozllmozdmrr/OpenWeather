@@ -1,5 +1,5 @@
 const url = 'https://api.openweathermap.org/data/2.5/'
-const key = 'a3b2f4740abf2ee79ee7f71b2f40543e'
+const key = size verilen api keyini kullanmalısınız
 
 const setQuery = (e) =>  {
     if(e.keyCode == '13')
